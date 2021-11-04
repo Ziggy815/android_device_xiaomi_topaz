@@ -291,6 +291,11 @@ persist.vendor.sensors.enable.rt_task=false
 persist.vendor.sensors.hal_trigger_ssr=false
 persist.vendor.sensors.support_direct_channel=false
 
+# SkiaGL Threaded
+debug.hwui.renderer=skiagl
+debug.renderengine.backend=skiaglthreaded
+renderthread.skia.reduceopstasksplitting=true
+
 # USB
 persist.sys.usb.config=none
 sys.usb.mtp.batchcancel=1
