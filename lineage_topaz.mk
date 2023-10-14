@@ -21,4 +21,3 @@ PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 12 4G
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
-
