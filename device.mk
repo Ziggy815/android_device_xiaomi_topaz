@@ -362,6 +362,10 @@ PRODUCT_PACKAGES += \
     android.hardware.common-V2-ndk.vendor \
     android.hardware.identity-V3-ndk.vendor
 
+# Memtrack
+PRODUCT_PACKAGES += \
+    vendor.qti.hardware.memtrack-service
+
 # Net
 PRODUCT_PACKAGES += \
     android.system.net.netd@1.1.vendor
