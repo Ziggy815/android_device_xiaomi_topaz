@@ -74,10 +74,6 @@ persist.vendor.ssr.restart_level=ALL_ENABLE
 # SystemUI
 persist.sysui.disableBlur=true
 
-# Wi-Fi Display
-persist.debug.wfd.enable=1
-persist.sys.wfd.virtual=0
-
 # WLAN
 ro.hardware.wlan.chip=wcn3950
 ro.hardware.wlan.dbs=0
